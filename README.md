@@ -93,3 +93,13 @@ BOTS v1 incluye eventos de un entorno corporativo simulado (web, autenticación,
 
 - Dataset oficial BOTS v1 (Splunk):  
   - [https://github.com/splunk/botsv1](https://github.com/splunk/botsv1)
+ 
+---
+
+## 📚 Recursos y dataset original
+
+> ⚠️ Este repositorio NO incluye el dataset original de BOTS v1.
+
+- Dataset oficial BOTS v1 (Splunk):  
+  https://github.com/splunk/botsv1
+
