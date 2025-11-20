@@ -1,0 +1,10 @@
+# Datos pesados / locales
+data/
+splunk_db/
+*.tgz
+*.tar.gz
+*.zip
+
+# Archivos temporales
+*.swp
+.DS_Store
