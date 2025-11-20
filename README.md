@@ -35,6 +35,30 @@ En esta primera fase el foco estará en:
 - Splunk + dataset BOTS v1 👉 como fuente de datos para investigación.
 
 ---
+## 🧪 Plan de ejercicios
+
+1. **Preparar el entorno de análisis**
+   - Desplegar Splunk (local o en VM).
+   - Cargar los datos de BOTS v1 como índices de prueba.
+
+2. **Consultas básicas de SOC**
+   - Buscar eventos por `sourcetype`, `host` y `index`.
+   - Localizar actividad sospechosa por IP / usuario.
+
+3. **Detección y triage**
+   - Crear búsquedas guardadas para:
+     - Intentos de fuerza bruta.
+     - Actividad anómala de autenticación.
+     - Uso de cuentas privilegiadas.
+
+4. **Paneles y casos de uso**
+   - Construir 1–2 dashboards simples para visualizar:
+     - Actividad por usuario.
+     - Actividad por host / origen.
+
+5. **Documentación**
+   - Resumir cada ejercicio en este repo (queries, hallazgos y lecciones).
+---
 
 ## 📦 Dataset: Splunk BOTS v1
 
